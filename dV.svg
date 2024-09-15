@@ -24,7 +24,7 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="211.5"
+     inkscape:cx="139"
      inkscape:cy="129.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -63,16 +63,6 @@
          id="path193" />
     </clipPath>
   </defs>
-  <g
-     clip-path="url(#clip-0)"
-     id="g200">
-    <path
-       fill-rule="evenodd"
-       fill="rgb(100%, 100%, 100%)"
-       fill-opacity="1"
-       d="M 0 283.5 L 283.5 283.5 L 283.5 0 L 0 0 Z M 0 283.5 "
-       id="path198" />
-  </g>
   <path
      fill-rule="evenodd"
      fill="rgb(0%, 0%, 0%)"

@@ -59,6 +59,12 @@ p {
     margin-top: 20px;
     color: #333;
     text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.survey:hover {
+    color: #fff;
+    background-color: #333;
 }
 
 .links p {
